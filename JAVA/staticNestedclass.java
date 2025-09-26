@@ -27,4 +27,5 @@ public class StaticClassDemo {
         ob1.Displayabc();
        // ob1.display();
     }
+
 }
